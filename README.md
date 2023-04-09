@@ -1,4 +1,12 @@
 ### Hi there 👋
+I'm a Faculty Fellow at New York University working with [Daniele Panozzo](/danielepanozzo). 
+My interests lie in improving the fidelity of physically based simulations by improving how the geometry of boundary conditions are represented and handled.
+
+
+
+
+
+
 
 <!--
 **mtao/mtao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
